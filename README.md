@@ -27,7 +27,7 @@ xkxt
 ├─login.html       		登录界面
 ├─login.php       		登录验证
 ```
-##以下为学生界面功能
+##### 以下为学生界面功能
 ```
 ├─student_cancel.select.php       学生退选
 ├─student_course_list.php         课程列表/选课入口
@@ -43,7 +43,7 @@ xkxt
 ├─student_upwork_list.php		已上交作业列表
 ├─student_work_upload.php  		上交作业
 ```
-##以下为教师界面功能
+##### 以下为教师界面功能
 ```
 ├─teahcer_course_info.php		授课信息
 ├─teahcer_index.php				教师主页
